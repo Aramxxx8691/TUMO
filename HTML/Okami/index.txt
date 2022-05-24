@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Elements Within Elements</title>
+    </head>
+    <body>
+        <div>
+            <a href="http://www.artofokami.com/wallpaper.php" target="_blank" title="Okami Wallpapers">
+                <img src="http://www.artofokami.com/images/okami_art_1.jpg" width="310" height="80" alt="Thumbnail of Okami Wallpaper No. 8" />
+            </a>
+        </div>
+    </body>
+</html>

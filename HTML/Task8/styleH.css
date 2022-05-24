@@ -1,0 +1,392 @@
+body{
+	background: url(Body.jpg);
+	padding: 50px;
+	display:table;
+	}
+
+a{
+text-decoration:none;	
+}
+
+#main{
+	background-color: white;
+	width: 1100px;
+	height:2342px;
+	padding: 20px;
+	margin:0, auto;
+	display:table-cell;
+	position:absolute;
+	left:14%;
+    top:5%;
+    border-radius: 25px;
+	}
+
+#Header{
+		background: url(Header.jpg);
+		width: 1100px;
+		height:500px;
+		padding: 1px;
+		margin: 0, auto;
+		display:block;
+		}
+
+#Header1{
+		background-color: black;
+		width: 1098px;
+		height:30px;
+		padding: 1px;
+		margin: 0, auto;
+		color: white;
+		font-family: 'Orbitron', sans-serif;
+		display:block;
+		border-radius: 15px;
+		}
+
+#Sites{
+		width: 544px;
+		height:30px;
+		padding: 1px;
+		margin: 0, auto;
+		display:inline-block;
+}
+
+#Login{
+		width: 200px;
+		height:20px;
+		padding: 1px;
+		margin: 0px 0px 0px 320px;
+		text-align: left;
+		display:inline-block;
+		}
+
+
+table{
+	border-collapse: collapse;
+	}
+
+#first{
+	font-size:20px;
+	}
+
+#second{
+		color: white;
+		}
+
+tr{
+	padding: 10px;
+	}
+
+td{
+	width: 100px;
+	height: 10px;
+	}
+
+.Sigin{
+	color: white;
+		}
+
+#himg1{
+		width:24px; 
+		height:24px;
+		margin: 3px 0px 0px 200px;
+		}
+
+.himg1{
+		width:24px; 
+		height:24px;
+		margin: 3px 0px 0px 0px;
+		}
+
+#Header2{
+		width: 1098px;
+		height:280px;
+		padding: 5px;
+		margin: 0, auto;
+		display:block;
+		}
+
+#Header3{
+		width: 1098px;
+		height:70px;
+		padding: 5px;
+		margin: 0, auto;
+		text-align: center;
+		display:table-cell;
+		}	
+
+#menu{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	}
+
+.menu_item{
+		display: inline-block;
+		}
+
+.menu_item a{
+		text-decoration: none;
+		display: inline-block;
+		text-transform: uppercase;
+		display: inline-block;
+		padding: 5px;
+		color: white;
+		font-family: 'Orbitron', sans-serif;
+		font-size: 30px;
+		}
+
+.menu_item a:hover{
+	background-color: red;
+		}
+
+.menu_item a:active{
+	background-color: black;
+	color: red;
+		}
+
+.submenu{
+		padding: 0;
+		margin: 0;
+		list-style-type: none;
+		display: none;
+		position: absolute;
+		background-color: grey;
+		}
+
+.submenu a{
+		width: 170px;
+		font-size: 20px;
+		}
+
+.dropdown{
+		position: relative;
+		}
+
+.dropdown:hover .submenu{
+	display: block;
+		}
+
+#Header4{
+		width: 1098px;
+		height:60px;
+		padding: 1px;
+		margin: 0, auto;
+		text-align: center;
+		display:block;
+		}
+
+#Header5{
+		width: 1098px;
+		height:20px;
+		padding: 1px;
+		margin: 0px 0px 0px 0px;
+		color: #FE0101;
+		text-align: center;
+		font-family: 'Orbitron', sans-serif;
+		font-size: 20px;
+		display:block;
+		}
+
+#Slider{
+		background: url(Body.jpg);
+		width: 1090px;
+		height:400px;
+		padding: 5px;
+		margin: 0, auto;
+		display:block;
+		}
+
+#Slider1{
+		width: 623px;
+		height:400px;
+		padding: 0px;
+		display:inline-block;
+		}
+
+#Slider2{
+		width: 623px;
+		height:244px;
+		color: red;
+		font-family: 'Orbitron', sans-serif;
+		text-align: center;
+		font-size: 30px;
+		display:inline-block;
+		}
+
+#Slider3{
+		width: 621px;
+		height:150px;
+		padding: 1px;
+		display:inline-block;
+		}
+
+#Slider4{
+		background: url(Slider4.jpg);
+		width: 463px;
+		height:400px;
+		display:inline-block;
+		}
+
+.InSlider1{
+		background-color: red;
+		width: 151px;
+		height:151px;
+		margin: 0px 0px 0px 1px;
+		display:inline-block;
+		border-radius: 15px;
+		}
+
+.Comments{
+		width: 140px;
+		height:140px;
+		display:inline-block;
+		color: white;
+		font-family: 'Orbitron', sans-serif;
+		text-align: center;
+		font-size: 10px;
+		}
+
+#SliderCenter{
+		background: url(Body.jpg);
+		width: 1090px;
+		height:600px;
+		padding: 5px;
+		margin: 0, auto;
+		display:block;
+		}
+
+#Slider5{
+		background: url(Slider5.jpg);
+		width: 200px;
+		height:600px;
+		display:inline-block;
+		}
+
+#Slider6{
+		width: 682px;
+		height:600px;
+		padding: 0px;
+		display:inline-block;
+		}
+
+#Slider7{
+		width: 681px;
+		height:136px;
+		color: red;
+		font-family: 'Orbitron', sans-serif;
+		text-align: center;
+		font-size: 30px;
+		display:inline-block;
+		}
+
+#Slider8{
+		width: 681px;
+		height:150px;
+		padding: 1px;
+		display:inline-block;
+		}
+
+#Slider9{
+		background: url(Slider9.jpg);
+		width: 463px;
+		height:400px;
+		font-family: 'Orbitron', sans-serif;
+		text-align: center;
+		font-size: 30px;
+		display:inline-block;
+		}
+
+.InSlider2{
+		background-color: red;
+		width: 151px;
+		height:151px;
+		margin: 0px 0px 0px 55px;
+		display:inline-block;
+		border-radius: 15px;
+		}
+
+#Footer{
+		background: url(Header.jpg);
+		width: 1090px;
+		height:400px;
+		padding: 5px;
+		margin: 0, auto;
+		display:inline-block;
+		}
+
+#Footer1{
+		width: 1098px;
+		height:100px;
+		padding: 1px;
+		margin: 0, auto;
+		display:block;
+		color: white;
+		font-family: 'Orbitron', sans-serif;
+		text-align: center;
+		font-size: 30px;
+		padding-top: 30px;		
+		}
+
+#Footer2{
+		width: 1098px;
+		height:250px;
+		padding: 1px;
+		margin: 0, auto;
+		display:block;
+		}
+
+#Footer3{
+		width: 1098px;
+		height:50px;
+		padding: 1px;
+		margin: 0, auto;
+		display:block;
+		color: white;
+		font-family: 'Orbitron', sans-serif;
+		text-align: center;
+		}
+
+.InFooter{
+		background-color: red;
+		width: 240px;
+		height:240px;
+		display:inline-block;
+		margin: 0px 0px 0px 23px;
+		border-radius: 15px;
+		}
+
+#thirde{
+		font-size:20px;
+		}
+
+#fourth{
+		color: white;
+		}
+
+.End{
+	color: white;
+	font-family: 'Orbitron', sans-serif;
+	text-align: center;
+	margin: 0px 71px 0px 71px;
+	}
+
+.box{
+	width: 100px;
+	height:30px;
+	}
+
+.box:hover{
+	background-color: black;
+	color: red;
+			}
+
+
+
+
+
+
+
+
+
+
+

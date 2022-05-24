@@ -1,0 +1,94 @@
+body{
+		background: url(http://cdn.tumo.org/activity/web/phase-2/using-css-style-html-elements/exercise/bg/35.png) #000 top center;
+
+		width:960px;
+		margin:70px auto;
+		font-family:Arial, Helvetica, sans-serif;
+
+		font-size:16px;
+		color:#646464;
+		font-weight:normal;
+
+			}
+	img{ text-align:center; border:none;}
+	h1{ text-transform:uppercase;
+	color:#149588;
+	font-size:48px;}
+	h2{
+		/*color:#f06444;*/
+		color:#fb9a02;
+		/*background-color:#513402;*/
+		font-size:32px;
+		text-transform:uppercase;
+		font-weight:normal;
+		
+	}
+	hr{
+		background-color:#ccc;
+		border:none;
+		height:3px;
+		margin-bottom:20px 0 40px;
+	}
+	table{ border:none; width:100%;}
+	table td{
+		border:none;
+		background:#e6e7e8;
+		padding:8px;	
+		
+		}
+	
+		input[type="text"]{
+			 background:#fff;
+			 border:1px solid #ccc;
+			width:270px;
+
+			border:none;
+			height:30px; 
+			margin-left:140px;
+			padding-left:8px;
+			height:30px;
+			color:#149588;
+		}
+		 input[type="password"]{
+			 background:#fff;
+			 border:1px solid #ccc;
+			width:270px;
+			line-height:20px;
+			border:none;
+			height:30px; 
+			margin-left:40px;
+			height:30px;
+			padding-left:8px;
+			color:#149588;
+			}
+			
+			input[type="checkbox"]{
+			margin-left:140px;
+		}
+		 input[type="submit"]{
+			 background-color:#149588;
+			color:#fff;
+			width:150px;
+			height:30px;
+			border:none;
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:16px;
+			}
+			#cat1{
+				margin-left:150px;
+				}
+				#cat2{
+					margin-left:62px;
+				}
+				#cat3{
+				margin-left:108px;
+				}
+				#cat4{
+				margin-left:33px;
+				}
+			input[type="submit"]:hover{
+			 background-color:#fb9a02;
+			
+			}
+			form span{ line-height:40px;}
+		

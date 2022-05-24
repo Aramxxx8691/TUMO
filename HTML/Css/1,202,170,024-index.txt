@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"> <title>Joe Fortes diving at English Bay VPL 67070</title>
+	</head>
+	<body>
+	    <div>
+		    <a href="https://www.flickr.com/photos/99915476@N04/18210963711/sizes/m/" target="_blank" title="Vancouver Public Library Historical Photographs">
+			<img src="https://farm8.staticflickr.com/7729/18210963711_04bbbe767f.jpg"
+			     width="500" height="418" alt="Vancouver Public Library Historical Photographs"/>
+		    </a>
+		</div>
+	</body>	
+</html>
